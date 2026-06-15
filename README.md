@@ -57,6 +57,8 @@ Life Expectancy vs BMI scatter plot
 
 Additional visual of choice
 
+<img width="1709" height="932" alt="Screenshot 2026-05-17 224409" src="https://github.com/user-attachments/assets/738b25e1-e946-4d76-ace6-04d66742b826" />
+
 All visuals were combined into an interactive dashboard published on Tableau Public.
 
 🔗 Dashboard Link:  
@@ -72,6 +74,9 @@ Genre distribution
 Danceability and energy levels
 
 Track characteristics
+
+<img width="1706" height="901" alt="task 2 " src="https://github.com/user-attachments/assets/06233301-5fde-42bf-8328-3547506fbe6e" />
+
 
 🔗 Dashboard Link:  
 https://public.tableau.com/views/ArtistpopuarityBasedongenredanceabilityandenergy/Dashboard1 (public.tableau.com in Bing)
